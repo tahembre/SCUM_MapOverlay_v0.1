@@ -4,10 +4,10 @@ import os
 
 # Define images (Add more if needed)
 IMAGES = {
-    "GasStations": "./IngameMaps/GasStations.png",
-    "Abandoned Bunkers": "./IngameMaps/AbandonedBunkers.png",
-    "OldSchool Bunkers": "./IngameMaps/BunkersOldSchool.png",
-    "Points Of Interest": "./IngameMaps/POI.png"
+    "GasStations": "./data/GasStations.png",
+    "Abandoned Bunkers": "./data/AbandonedBunkers.png",
+    "OldSchool Bunkers": "./data/BunkersOldSchool.png",
+    "Points Of Interest": "./data/POI.png"
 }
 EYE_OPEN_SOLID_PATH = "eye_open_solid.png"
 EYE_CLOSED_PATH = "eye_closed.png"
